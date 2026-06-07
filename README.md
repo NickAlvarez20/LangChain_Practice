@@ -1,5 +1,5 @@
 # LangChain_Practice
-A guided intro to learning LangChang on KodeKloud 
+A guided intro to learning LangChang on KodeKloud | Follow along with the tutorial by signing up for an account at https://kodekloud.com and following the 2nd https://learn.kodekloud.com/user/courses/youtube-labs-ai-agent-fundamentals/ tutorial in the cloud coding environment. You can watch the tutorial on YouTube as well: https://youtu.be/ZaPbP9DwBOE?si=HGZuFIkjd003qOKo
 
 
 # Lab 2: LangChain Fundamentals - Code Files
